@@ -1,4 +1,4 @@
-# EPM 错误码信息手册
+# EPM (EaseUS Partition Master) 错误码信息手册
 
 ## 错误信息结构设计
 
